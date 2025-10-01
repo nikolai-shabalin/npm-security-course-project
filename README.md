@@ -1,1 +1,0 @@
-# NPM Security course project
